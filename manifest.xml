@@ -13,12 +13,12 @@
   <DisplayName DefaultValue="TalentFish Interview Scheduler"/>
   <Description DefaultValue="Schedule interviews directly from JobDiva notification emails"/>
 
-  <IconUrl DefaultValue="https://YOUR-HOSTED-URL/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://YOUR-HOSTED-URL/assets/icon-128.png"/>
+  <IconUrl DefaultValue="https://jcorletta.github.io/talentfish-addin/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://jcorletta.github.io/talentfish-addin/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://talentfish.com"/>
 
   <AppDomains>
-    <AppDomain>https://YOUR-HOSTED-URL</AppDomain>
+    <AppDomain>https://jcorletta.github.io/talentfish-addin</AppDomain>
   </AppDomains>
 
   <Hosts>
@@ -34,7 +34,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://YOUR-HOSTED-URL/taskpane.html"/>
+        <SourceLocation DefaultValue="https://jcorletta.github.io/talentfish-addin/taskpane.html"/>
         <RequestedHeight>500</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -101,14 +101,14 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://YOUR-HOSTED-URL/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://YOUR-HOSTED-URL/assets/icon-32.png"/>
-        <bt:Image id="Icon.64x64" DefaultValue="https://YOUR-HOSTED-URL/assets/icon-64.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://YOUR-HOSTED-URL/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://jcorletta.github.io/talentfish-addin/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://jcorletta.github.io/talentfish-addin/assets/icon-32.png"/>
+        <bt:Image id="Icon.64x64" DefaultValue="https://jcorletta.github.io/talentfish-addin/assets/icon-64.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://jcorletta.github.io/talentfish-addin/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="FunctionFile.Url" DefaultValue="https://YOUR-HOSTED-URL/function-file.html"/>
-        <bt:Url id="TaskPaneUrl" DefaultValue="https://YOUR-HOSTED-URL/taskpane.html"/>
+        <bt:Url id="FunctionFile.Url" DefaultValue="https://jcorletta.github.io/talentfish-addin/function-file.html"/>
+        <bt:Url id="TaskPaneUrl" DefaultValue="https://jcorletta.github.io/talentfish-addin/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="TalentFish"/>
