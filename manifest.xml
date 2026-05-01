@@ -1,7 +1,7 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
 <Id>4a8b3c2d-1e5f-6a7b-8c9d-0e1f2a3b4c5d</Id>
-<Version>1.0.0</Version>
+<Version>1.0.0.0</Version>
 <ProviderName>TalentFish</ProviderName>
 <DefaultLocale>en-US</DefaultLocale>
 <DisplayName DefaultValue="TalentFish Interview Scheduler"/>
